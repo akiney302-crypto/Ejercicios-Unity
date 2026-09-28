@@ -1,0 +1,4 @@
+repository "Exercise 4_02_Unity_Sistema_Solar_Básico/Exercise 4_02_Unity_Sistema_Solar_Básico@6872835432871@cloud"
+  path "/"
+    br "/main"
+    co "/main"

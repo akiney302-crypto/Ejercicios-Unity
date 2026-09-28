@@ -1,0 +1,4 @@
+repository "Exercise 4_03_Unity_Ejercicios_Input_System_Transform/Exercise 4_03_Unity_Ejercicios_Input_System_Transform@6872835432871@cloud"
+  path "/"
+    br "/main"
+    co "/main"
